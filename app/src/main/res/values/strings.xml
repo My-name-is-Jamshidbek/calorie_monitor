@@ -18,4 +18,5 @@
     <string name="email">Emal</string>
     <string name="password">password</string>
     <string name="you_have_an_account">You have an account?</string>
+    <string name="you_have_not_a_account">You have not a account?</string>
 </resources>
