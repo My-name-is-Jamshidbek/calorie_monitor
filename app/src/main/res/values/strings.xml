@@ -8,8 +8,8 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_daily_meal">daily meals</string>
+    <string name="menu_favourite">Favourites</string>
     <string name="my_app_description_text">Myhellohellohellohellohellohellohellohello</string>
     <string name="my_app_description_title">Hello</string>
     <string name="my_app_register">Register</string>
