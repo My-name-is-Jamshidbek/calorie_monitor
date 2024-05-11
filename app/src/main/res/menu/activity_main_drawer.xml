@@ -6,15 +6,19 @@
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_menu_camera"
+            android:icon="@drawable/ic_baseline_home_24"
             android:title="@string/menu_home" />
         <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
+            android:id="@+id/nav_daily_meal"
+            android:icon="@drawable/daily_meal"
             android:title="@string/menu_daily_meal" />
         <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
+            android:id="@+id/nav_favourite"
+            android:icon="@drawable/ic_baseline_favorite_24"
             android:title="@string/menu_favourite" />
+        <item
+            android:id="@+id/nav_my_cart"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="@string/menu_my_cart" />
     </group>
 </menu>
