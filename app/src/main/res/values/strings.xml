@@ -19,4 +19,7 @@
     <string name="password">password</string>
     <string name="you_have_an_account">You have an account?</string>
     <string name="you_have_not_a_account">You have not a account?</string>
+    <string name="text_daily_meal"> Daily meal</string>
+    <string name="text_favourite"> Favourites</string>
+    <string name="text_home"> Home</string>
 </resources>
