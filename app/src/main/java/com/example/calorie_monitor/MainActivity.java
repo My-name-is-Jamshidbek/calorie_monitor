@@ -3,6 +3,7 @@ package com.example.calorie_monitor;
 import android.os.Bundle;
 import android.view.Menu;
 
+import com.example.calorie_monitor.R;
 import com.google.android.material.navigation.NavigationView;
 
 import androidx.navigation.NavController;

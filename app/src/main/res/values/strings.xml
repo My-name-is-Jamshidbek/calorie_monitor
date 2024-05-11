@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">calorie_monitor</string>
+    <string name="app_name">Calorie meter</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">S T C</string>
@@ -28,4 +28,7 @@
     <string name="menu_my_cart">My cart</string>
     <string name="text_my_cart">My cart text</string>
     <string name="log_out">Log out</string>
+    <string name="search_your_food">Search your food</string>
+    <string name="top_of_search">What do you want?</string>
+    <string name="hello">Hello ali</string>
 </resources>

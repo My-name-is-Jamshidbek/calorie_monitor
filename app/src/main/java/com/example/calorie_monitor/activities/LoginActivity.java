@@ -1,10 +1,13 @@
-package com.example.calorie_monitor;
+package com.example.calorie_monitor.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+
+import com.example.calorie_monitor.MainActivity;
+import com.example.calorie_monitor.R;
 
 public class LoginActivity extends AppCompatActivity {
 
