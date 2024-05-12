@@ -31,4 +31,5 @@
     <string name="search_your_food">Search your food</string>
     <string name="top_of_search">What do you want?</string>
     <string name="hello">Hello ali</string>
+    <string name="product_name">Product name</string>
 </resources>
