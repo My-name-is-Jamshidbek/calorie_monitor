@@ -13,14 +13,17 @@
         android:theme="@style/Theme.Calorie_monitor"
         tools:targetApi="31">
         <activity
+            android:name=".activities.DetailedDailyMealActivity"
+            android:exported="false" />
+        <activity
             android:name=".activities.RegistrationActivity"
             android:exported="false" />
         <activity
             android:name=".activities.LoginActivity"
             android:exported="false" />
-        <activity android:name=".activities.WelcomeActivity"
-            android:exported="true">
-        </activity>
+        <activity
+            android:name=".activities.WelcomeActivity"
+            android:exported="true"></activity>
         <activity
             android:name=".MainActivity"
             android:exported="true"
