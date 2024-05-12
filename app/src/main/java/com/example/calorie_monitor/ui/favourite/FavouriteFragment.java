@@ -1,4 +1,4 @@
-package com.example.calorie_monitor.ui.gallery;
+package com.example.calorie_monitor.ui.favourite;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -10,12 +10,14 @@ import androidx.fragment.app.Fragment;
 
 import com.example.calorie_monitor.R;
 
-public class DailyMealFragment extends Fragment {
+public class FavouriteFragment extends Fragment {
+
 
     public View onCreateView(@NonNull LayoutInflater inflater,
                              ViewGroup container, Bundle savedInstanceState) {
-        View root = inflater.inflate(R.layout.fragment_daily_meal, container,false);
+        View root = inflater.inflate(R.layout.fragment_favourite, container, false);
 
         return root;
     }
+
 }
